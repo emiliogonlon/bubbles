@@ -9,3 +9,6 @@ main div {
 main {
   position: relative;
 }
+body {
+  background-color: black;
+}
